@@ -12,7 +12,7 @@ I present my new project, (PEA3) > Pean Music 多 a bot that is in > development
 - '**skip**' : Skips the current song.
 - '*help :' This commands just shows you what commands bot have
 - '*vote :' Vote the bot on Top.gg
-- '>Ping :' Brings up the latency of the bot
+- '*Ping :' Brings up the latency of the bot
 
 ## GitHub
 I publish the full source code of this project and templates to my GitHub, www.Github.com/BuuyaXD This will enable it so anybody can fork my project in Autocode directly.
